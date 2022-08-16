@@ -6,3 +6,5 @@ print('hello git4 hot-fix')
 print('master test')
 print('hot-fix test')
 print('push test')
+
+print('pull test')
